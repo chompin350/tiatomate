@@ -1,0 +1,8 @@
+//This file you will create your mixins inside of the project
+
+@mixin buttom_size($padding,$font){
+    padding: $padding;
+    background-color: $taupegray;
+    border-radius: 30px;
+    font-size: $font;
+}

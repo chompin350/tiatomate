@@ -1,0 +1,18 @@
+//This file you will create your style for buttons inside of the project
+
+.bigbutton{
+    @include buttom_size(10px,$font-large);
+
+}
+
+.largebutton{
+    @include buttom_size(10px,$font-medium);
+}
+
+.mediumbutton{
+    @include buttom_size(10px,$font-medium);
+}
+
+.smallbutton{
+    @include buttom_size(10px, $font-medium);
+}

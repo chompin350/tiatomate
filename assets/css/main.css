@@ -1,0 +1,39 @@
+body {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Raleway;
+}
+
+.bigbutton {
+  padding: 10px;
+  background-color: #91918d;
+  border-radius: 30px;
+  font-size: 50px;
+}
+
+.largebutton {
+  padding: 10px;
+  background-color: #91918d;
+  border-radius: 30px;
+  font-size: 18px;
+}
+
+.mediumbutton {
+  padding: 10px;
+  background-color: #91918d;
+  border-radius: 30px;
+  font-size: 18px;
+}
+
+.smallbutton {
+  padding: 10px;
+  background-color: #91918d;
+  border-radius: 30px;
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=main.css.map */
